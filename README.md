@@ -17,5 +17,6 @@
 	1. 实例化. 表示由一个类创建了另一个类，使用虚线实心箭头，指向被创建的类。
 	2. 继承协议. 表示基类或具体类遵循协议，使用虚线空心箭头，指向协议。
 	3. 继承基类. 表示具体子类派生自基类，使用实线空心箭头，指向基类。
-
+	![relationDiagram](https://github.com/sean4app/Design-Pattern/blob/master/Resources/Images/1.RelationDiagram.png)
+	
 
