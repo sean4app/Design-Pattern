@@ -11,7 +11,8 @@
   2. 抽象基类. 抽象基类也可以定义抽象行为，由派生的子类实现抽象行为。但iOS不支持多继承，使得抽象基类不够灵活，更多的时候需要配合协议一起使用。抽象基类可以定义抽象行为，也可以定义具体行为。
   3. 具体子类. 具体子类遵循于抽象设计，完成具体的行为。
   4. 范畴. 范畴作为iOS中对类的扩展，与当前类保持平级状态。在类图中以(CategoryName)表示，定义扩展的具体行为。
-
+  ![classDiagram](https://github.com/sean4app/Design-Pattern/blob/master/Resources/Images/1.ClassDiagram.png)
+  
 * 关系图
 
 
